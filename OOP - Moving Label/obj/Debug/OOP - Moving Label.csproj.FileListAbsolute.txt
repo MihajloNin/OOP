@@ -1,0 +1,10 @@
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\bin\Debug\OOP - Moving Label.exe.config
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\bin\Debug\OOP - Moving Label.exe
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\bin\Debug\OOP - Moving Label.pdb
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP - Moving Label.csprojAssemblyReference.cache
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP___Moving_Label.Properties.Resources.resources
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP - Moving Label.csproj.GenerateResource.cache
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP - Moving Label.csproj.CoreCompileInputs.cache
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP - Moving Label.exe
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP - Moving Label.pdb
+C:\Users\mihni\source\repos\OOP - Moving Label\OOP - Moving Label\obj\Debug\OOP___Moving_Label.FormIgrica.resources
