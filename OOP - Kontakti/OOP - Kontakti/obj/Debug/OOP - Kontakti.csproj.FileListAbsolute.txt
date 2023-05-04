@@ -1,0 +1,10 @@
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\bin\Debug\OOP - Kontakti.exe.config
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\bin\Debug\OOP - Kontakti.exe
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\bin\Debug\OOP - Kontakti.pdb
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP - Kontakti.csprojAssemblyReference.cache
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP___Kontakti.Adresar.resources
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP___Kontakti.Properties.Resources.resources
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP - Kontakti.csproj.GenerateResource.cache
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP - Kontakti.csproj.CoreCompileInputs.cache
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP - Kontakti.exe
+C:\Users\mihni\source\repos\OOP - Kontakti\OOP - Kontakti\obj\Debug\OOP - Kontakti.pdb
